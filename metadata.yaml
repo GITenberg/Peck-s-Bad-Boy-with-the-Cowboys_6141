@@ -1,0 +1,39 @@
+_repo: Peck-s-Bad-Boy-with-the-Cowboys_6141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peck, George W. (George Wilbur)
+    alias: Peck, George Wilbur
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '3383'
+    url: http://www.gutenberg.org/2009/agents/3383
+    wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Train robberies -- Juvenile fiction'
+- !lcsh 'Ransom -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: Peck's Bad Boy with the Cowboys
+url: http://www.gutenberg.org/ebooks/6141
